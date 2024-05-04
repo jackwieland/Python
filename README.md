@@ -8,4 +8,5 @@
 8. **t_test_male_group_template.py:** Runs the paired two-tailed t-test between my male groups, abnormal category vs normal category for phenoptype. - **NOTE****** this refers to biological determination via chromosome karyotype.
 9. **Female_Group_t_test_template.py:** compares my female groups by phenotype. - **NOTE****** this refers to biological determination via chromosome karyotype.
 10. **File_Prep_template.py:** Finds the mean values for the data and puts these into a new CSV output with csv file production after each stage for validation checks after.
-11. **File_prep_2_template.py:** Same method as File_Prep_template.py but, columns are from input file are grouped into categories. 
+11. **File_prep_2_template.py:** Same method as File_Prep_template.py but, columns are from input file are grouped into categories.
+12.  **chi_square.py**: Performs the chi-square test.
