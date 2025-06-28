@@ -10,3 +10,4 @@
 10. **File_Prep_template.py:** Finds the mean values for the data and puts these into a new CSV output with csv file production after each stage for validation checks after.
 11. **File_prep_2_template.py:** Same method as File_Prep_template.py but, columns are from input file are grouped into categories.
 12.  **chi_square.py**: Performs the chi-square test.
+**Elbow_Method.py**: Performs the elbow method with silohuette scores to determine number of clusters for K-Means clustering.
