@@ -25,6 +25,6 @@ plt.ylabel('Col_2')
 plt.title('TITLE')
 plt.legend()
 plt.show
-plt.savefig('/Users/jackwieland/Desktop/test.png', dpi=300)
+plt.savefig('/file_path/test.png', dpi=300)
 
 print("Plot saved successfully as 'check.png'")
