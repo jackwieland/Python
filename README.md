@@ -10,5 +10,6 @@
 10. **File_Prep_template.py:** Finds the mean values for the data and puts these into a new CSV output with csv file production after each stage for validation checks after.
 11. **File_prep_2_template.py:** Same method as File_Prep_template.py but, columns are from input file are grouped into categories.
 12.  **chi_square.py**: Performs the chi-square test.
-**Elbow_Method.py**: Performs the elbow method with silohuette scores to determine number of clusters for K-Means clustering.
-**K-Means_Template.py**: Produces the K-means clustering graph.
+13. **Elbow_Method.py**: Performs the elbow method with silohuette scores to determine number of clusters for K-Means clustering.
+14. **K-Means_Template.py**: Produces the K-means clustering graph.
+15. **Adding_Graphs_to_PDF.py**: Generates a PDF and adds graphs to a page, with a specified number per page. Note, this is for adding graphs to a page in portrait.
